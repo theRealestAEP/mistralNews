@@ -1,6 +1,17 @@
-# mistralnews
+# mistralnews Summary 
 
 To install dependencies:
+
+Ollama 
+```
+curl https://ollama.ai/install.sh | sh
+```
+
+get mistral 
+```
+ollama pull mistral
+```
+
 
 ```bash
 bun install
